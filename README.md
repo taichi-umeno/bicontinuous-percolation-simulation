@@ -32,7 +32,7 @@ $$
 
 ## Requirements
 
-The code requires Python and the following packages:
+The simulations were run using Python 3.14.7 with the following packages:
 
 - NumPy
 - SciPy
